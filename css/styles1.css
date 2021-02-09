@@ -1,0 +1,110 @@
+body{
+  color: #40514E;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.76rem;
+  line-height: 2;
+  color:#66BFBF;
+}
+.pro{
+    font-size: 2.50rem;
+    color:#66BFBF;
+    font-weight: normal;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.50rem;
+  color:#66BFBF;
+  font-weight: normal;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.topconatainer{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middleconatiner{
+
+
+}
+.bottom-container{
+height: 200px;
+width: 100%;
+background-color:#75cfb8;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: absolute;
+top:50px;
+right:450px;
+}
+a{
+  color:#11999E;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.computer{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.volleyball{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width:10px;
+  margin:100px auto 100px;
+  width: 5%;
+  color:#EAF6F6;
+}
+.contact-me{
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+.btn{
+  font-size:20px;
+  padding:5px;
+  color: #EAF6F6;
+  text-decoration: none;
+  background-color: #75cfb8;
+  border-radius: 5px;
+}
+.copy{
+  color: #EAF6F6;
+}
+.footer-link{
+  text-decoration: none;
+  font-weight: bold;
+}
+p{
+  line-height: 2;
+}
+.profile{
+  margin-top:50px;
+}
+.conatct-message{
+  margin:30px auto 30px auto;
+}
+a:hover{
+  color: #EAF6F6;
+}
